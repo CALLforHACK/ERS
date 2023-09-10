@@ -2,7 +2,8 @@ This project is a Employee Review System application that allows employees to su
 
 Installation
 
-## YOU NEED TO CONNECT WITH YOUR MONGOOSE AND EXIT THE USER TYPE "EMPLOYER" TO "admin" ###
+## YOU NEED TO CONNECT WITH YOUR MONGOOSE AND EDIT THE USER TYPE "EMPLOYER" TO "admin" ##
+## or you can use this username- "call4hack@gmail.com" pass- "Jku5@A4UPy2dX" ##
 
 To run this application on your local machine, please follow these steps:
 
